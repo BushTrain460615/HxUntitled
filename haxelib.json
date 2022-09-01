@@ -4,7 +4,7 @@
 	"license":"MIT",
 	"tags":[
 		"haxe",
-		"",
+		"shaders",
 		"MP4"
 	],
 	"description":"Full MP4 and Shader support for Haxe",
