@@ -1,0 +1,16 @@
+{
+	"name":"text-haxe-extension",
+	"url":"https://github.com/BushTrain460615/text-haxe-extension",
+	"license":"MIT",
+	"tags":[
+		"haxe",
+		"",
+		"MP4"
+	],
+	"description":"Full MP4 and Shader support for Haxe",
+	"version":"1.0.0",
+	"releasenote":"First Release",
+	"contributors":[
+		"BushTrain460615"
+	],
+}
