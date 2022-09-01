@@ -6,5 +6,5 @@
 - [HxShaders](https://github.com/ItsyourboyJonnycat/HxShaders)
 - [HxCodec](https://github.com/polybiusproxy/hxCodec)
 # TODO
-- [ ] Add HxCodec
-- [ ] Add HxShaders
+- [x] Add HxCodec
+- [x] Add HxShaders
