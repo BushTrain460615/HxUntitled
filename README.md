@@ -185,3 +185,8 @@ Next, add this into `Project.xml`
 You will also have to put the location manually in the paths.**
 
 --------------------------
+
+# HxShaders
+
+1. Paste this <haxelib name="HxShaders"/> in your project.xml
+2. Go to your shader code. Remove the code that says import flixel.system.FlxAssets.FlxShader; and replace it with import tools.FlxShader;
