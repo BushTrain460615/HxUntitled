@@ -3,9 +3,9 @@ I want to make this be the only haxelib you need to build FNF so i need to put l
 
 # How To Install
 Go To PowerShell Or CMD and enter this
-``` bash
+`` bash
 haxelib install text-haxe-extension
-```
+``
 # Credits for the libs
 - [HxShaders](https://github.com/ItsyourboyJonnycat/HxShaders)
 - [HxCodec](https://github.com/polybiusproxy/hxCodec)
