@@ -1,5 +1,5 @@
 {
-	"name":"text-haxe-extension",
+	"name":"HxUntitled",
 	"url":"https://github.com/BushTrain460615/HxUntitled",
 	"license":"MIT",
 	"tags":[
@@ -8,9 +8,15 @@
 		"MP4"
 	],
 	"description":"Full MP4 and Shader support for Haxe",
-	"version":"1.0.0",
-	"releasenote":"MP4 And Shader support",
+	"version":"1.0.1",
+	"releasenote":"Fixed some bugs",
 	"contributors":[
 		"BushTrain460615"
-	]
+	],
+	"dependencies":{
+		"flixel":"",
+		"lime":"",
+		"openfl":""
+	},
+	"main":"VideoHandler"
 }
