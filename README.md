@@ -3,7 +3,7 @@ I want to make this be the only haxelib you need to build FNF so i need to put l
 
 # How To Install
 Go To PowerShell Or CMD and enter this
-`` bash
+``
 haxelib install HxUntitled 1.0.1 
 ``
 # Credits for the libs
